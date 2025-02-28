@@ -5,10 +5,10 @@
 
 ## 👨‍👩‍👧‍👦 팀 소개
 
-|Name|육진|김수한|남어진|맹관묵|장윤진|
-|---| ---  |---  | ---      | ---   | ---   |
-|Git|[@jin930303](https://github.com/jin930303)|[@shk0349](https://github.com/shk0349)|[@JakeANam](https://github.com/JakeANam)|[@GwanMuk](https://github.com/GwanMuk)|[@jyj0607040607](https://github.com/jyj0607040607)|
-|E-mail|<dbrwls12@gmail.com>|<shk0349@naver.com>|<nams93627@naver.com>|<mkm1022@naver.com>|<jyj060704@naver.com>|
+|Name|육진|김수한|남어진|맹관묵|
+|---| ---  |---  | ---      | ---   |
+|Git|[@jin930303](https://github.com/jin930303)|[@shk0349](https://github.com/shk0349)|[@JakeANam](https://github.com/JakeANam)|[@GwanMuk](https://github.com/GwanMuk)|
+|E-mail|<dbrwls12@gmail.com>|<shk0349@naver.com>|<nams93627@naver.com>|<mkm1022@naver.com>|
 
 ## 💡사용기술
 
